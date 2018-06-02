@@ -1,0 +1,14 @@
+{
+  "name": "eventos",
+  "version": "1.0.0",
+  "description": "telegram bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error\" && ecit 1"
+  },
+  "author": "neemias",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "telebot": "^1.2.6"
+  }
+}
